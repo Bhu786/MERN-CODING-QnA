@@ -24,7 +24,7 @@
 
 ```javascript
 
-document.addEventListener("DOMContentLoaded", function () {
+
   let counterValue = 0;
   const counterElement = document.getElementById("counter");
   const incrementButton = document.getElementById("incrementButton");
@@ -38,7 +38,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
   
-});
 
 ```
 
