@@ -41,7 +41,7 @@
 
 ```
 
-
+![alt text](./image1.png")
 
 
 
@@ -90,7 +90,7 @@ three.addEventListener("click", decrement);
 ```
 
 
-
+![alt text](./image2.png")
 
 
 
